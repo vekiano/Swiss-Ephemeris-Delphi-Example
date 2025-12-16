@@ -1,9 +1,3 @@
-Here is a comprehensive, professional **README.md** written in English. It explains the project's purpose, how to set it up, the folder structure, and the technical details of the implementation.
-
-You can create a file named `README.md` in your project folder and paste the content below into it.
-
----
-
 #Swiss Ephemeris Delphi ExampleA complete **Delphi VCL Example** demonstrating how to integrate the high-precision **Swiss Ephemeris** library (by Astrodienst) into an Object Pascal application.
 
 This project calculates a sample birth chart (Barack Obama) including Julian Day, planetary positions (Longitude, Latitude, Speed), and House Cusps (Placidus system). It handles the communication between Delphi (Unicode) and the DLL (ANSI C).
