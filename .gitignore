@@ -1,0 +1,13 @@
+# Delphi ignores
+__history/
+*.dcu
+*.exe
+*.local
+*.identcache
+*.stat
+*.tvsconfig
+Win32/
+Win64/
+
+# Forçar o envio da DLL (geralmente DLL é ignorada, mas aqui precisamos dela)
+!swedll32.dll
